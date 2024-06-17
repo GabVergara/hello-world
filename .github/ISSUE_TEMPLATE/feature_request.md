@@ -2,8 +2,8 @@
 name: Feature request
 about: coso
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: GabVergara
 
 ---
 
